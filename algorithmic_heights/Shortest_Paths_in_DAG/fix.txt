@@ -1,0 +1,5 @@
+Depth-First Search is needed to properly check. 
+
+Sort connected nodes numberically, then check paths on leftover connections.
+
+See: http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf pg 94 for depth first search example
